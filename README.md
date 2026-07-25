@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Awais Hamayoun 👋</h1>
 
 <p align="center">
-BS Artificial Intelligence @ SZABIST Islamabad
+BS Artificial Intelligence @ FAST Islamabad
 <br>
 Building Enterprise AI Systems
 </p>
