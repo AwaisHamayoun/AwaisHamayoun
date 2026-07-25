@@ -32,7 +32,7 @@ A complete machine learning library built entirely with NumPy, implementing core
 ## 🛠 Tech Stack
 
 **Languages**
-Python • SQL
+Python • SQL • C++ • Assembly language
 
 **Machine Learning**
 NumPy • Pandas • scikit-learn • TensorFlow/Keras • OpenCV
