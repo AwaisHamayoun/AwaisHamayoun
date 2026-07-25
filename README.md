@@ -10,9 +10,6 @@ Building Enterprise AI Systems
 Machine Learning • LLMs • Information Retrieval • Knowledge Graphs • Backend Engineering
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AwaisHamayoun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 ---
 
 ## 🚀 Building Toward Production AI
@@ -72,7 +69,7 @@ Built to understand the mathematics and implementation details behind modern mac
 
 ## 🎓 Certification
 
-**Machine Learning Specialization**
+**Machine Learning Specialization**  
 DeepLearning.AI & Stanford Online (Andrew Ng)
 
 ✔ [Verify Credential](https://coursera.org/verify/specialization/1M070BP1PHU0)
