@@ -11,9 +11,8 @@ Machine Learning • LLMs • Information Retrieval • Knowledge Graphs • Bac
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=AwaisHamayoun&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=AwaisHamayoun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 ---
 
 ## 🚀 Building Toward Production AI
